@@ -1,0 +1,430 @@
+.home-page {
+  background-color: aliceblue;
+  padding-right:100px;
+  padding-left:100px;
+  padding-top:20px;
+  padding-bottom: 20px;
+
+  .Sign-Up {
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.38;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .Blog-Contact-us-Copy {
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.38;
+    letter-spacing: -0.1px;
+    color: #a3a3a3;
+  }
+  .How-Does-It-Works {
+    font-family: Geometria;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: center;
+    line-height: 1.35;
+    letter-spacing: -0.1px;
+    color: #575757;
+    width: 50%;
+  }
+  .Take-a-Picture-of-Yo {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #f29a37;
+    .text-style-1 {
+      color: #575757;
+    }
+  }
+  .AI-tells-you-the-pro {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .A-real-human-doctor {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .Lorem-ipsum-dolor-si {
+    opacity: 0.6;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: 0.4px;
+    color: #7b7b7b;
+  }
+
+  .AI-human-doctors-d {
+    font-family: Geometria;
+    font-size: 49px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: -0.2px;
+    color: #575757;
+  }
+  .title-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  .Rectangle {
+    border-radius: 42px;
+    background-image: linear-gradient(to left, #69befc, #3ca7fb);
+    max-width: 300px;
+    flex: 0 1 47%;
+    text-align: center;
+    margin-right: 6%;
+  }
+  .Rectangle-Copy {
+    border-radius: 42px;
+    background-image: linear-gradient(258deg, #f9c762, #f19533);
+    max-width: 300px;
+    min-width: 100px;
+    flex: 0 1 47%;
+    text-align: center;
+  }
+  .Rectangle-signup {
+    width: 100px;
+    border-radius: 20px;
+    background-image: linear-gradient(258deg, #f9c762, #f19533);
+    margin: auto;
+    margin-top: 50px;
+  }
+  .Get-the-App-and-Cons {
+    font-family: Geometria;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.54;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #575757;
+  }
+  .Are-you-a-Doctor-Wh {
+    font-family: Geometria;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.35;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .App-Store {
+    font-family: Geometria;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.69;
+    letter-spacing: -0.1px;
+    color: #575757;
+  }
+  .Available-at-the {
+    opacity: 0.6;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+    color: #7b7b7b;
+  }
+  .A-Good-Practice {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #f29a37;
+    .text-style-1 {
+      color: #575757;
+    }
+  }
+  .Diagnosis-Online-Any {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: center;
+    line-height: 1.86;
+    letter-spacing: -0.1px;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .Google-Pay {
+    font-family: Geometria;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.69;
+    letter-spacing: -0.1px;
+    color: #575757;
+  }
+  .GET-IT-ON {
+    opacity: 0.6;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.8;
+    letter-spacing: 0.4px;
+    color: #7b7b7b;
+  }
+  .Get-the-App {
+    font-family: Geometria;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: #ffffff;
+    display: block;
+  }
+  .Earn-Additional-Mone {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .A-Great-Chance-to-Fi {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.34;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #575757;
+    .text-style-1 {
+      color: #f29a37;
+    }
+  }
+  .Why-to-Use-Medical-E {
+    font-family: Geometria;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: -0.1px;
+    text-align: center;
+    color: grey;
+    margin-bottom: 20px;
+
+    .text-style-1 {
+      letter-spacing: -0.1px;
+      color: blue;
+    }
+  }
+  .Choose-the-Doctor-Yo {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: center;
+    line-height: 1.86;
+    letter-spacing: -0.1px;
+    color: #f29a37;
+    .text-style-1 {
+      color: #575757;
+    }
+  }
+  .Stay-Healthy-Article {
+    font-family: Geometria;
+    font-size: 29px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: center;
+    line-height: 1.86;
+    letter-spacing: -0.1px;
+    color: #f29a37;
+    .text-style-1 {
+    color: #575757;
+    }
+  }
+
+  .Mask {
+    border-radius: 15px;
+    box-shadow: 0 22px 24px 0 rgba(196, 196, 196, 0.05);
+    background-color: #ffffff;
+    display: flex;
+  }
+  .stay-healthy-mask {
+    width: 50%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0 22px 24px 0 rgba(196, 196, 196, 0.05);
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    display: flex;
+  }
+  .twobox{
+    margin:20px;
+  }
+  .twobutton{
+    margin-top:50px;
+    display: flex;
+  }
+  .disflex{
+  display: flex;
+  }
+  .iconsize{
+    max-width: 200px;
+    flex: 0 0 200px;
+    margin:auto;
+    text-align: center;
+  }
+  .apple-google-mask {
+    padding-top:30px;
+    padding-bottom: 30px;
+    width: 50%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0 22px 24px 0 rgba(196, 196, 196, 0.05);
+    margin-bottom: 50px;
+    background-color: white;
+    background-image: url("../../assets/group-11.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: right;
+  }
+  .border{
+    margin:40px;
+    border-style: dashed;
+    border-radius: 5px;
+  }
+  .signup2{
+    display: none;
+  }
+  .backimagearea{
+    height: 860px;
+    background-image: url("../../assets/dottedline.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y: bottom;
+    background-position-x: right;
+  }
+  .slider-wrapper{
+    margin-top:10px;
+    background-image: url("../../assets/group-10.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+
+@media screen and (max-width: 1000px) {
+  .home-page {
+    padding-right:20px;
+    padding-left:20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    .Mask {
+      display: block;
+    }
+    .stay-healthy-mask {
+      display: block;
+      width: fit-content;
+    }
+    .apple-google-mask {
+      width: fit-content;
+    }
+    .disflex{
+    display: block;
+    }
+    .topmenu{
+      display: none;
+    }
+    .twobutton{
+      display: block;
+    }
+    .signup1{
+      display: none;
+    }
+    .signup2{
+      display: flex;
+      width: 50%;
+      margin: auto;
+      margin-bottom: 20px;
+    }
+    .Rectangle {
+      max-width: none;
+      margin-right: 0%;
+    }
+    .Rectangle-Copy {
+      margin-top:20px;
+      max-width: none;
+    }
+    .How-Does-It-Works {
+      width:100%;
+    }
+    .backimagearea{
+      height: 700px;
+    }
+  }
+}
